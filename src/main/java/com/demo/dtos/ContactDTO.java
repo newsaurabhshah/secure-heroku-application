@@ -22,7 +22,8 @@ public class ContactDTO {
 	static {
 		StringBuilder sb = new StringBuilder();
 		sb.append("SELECT ").append(ID).append(", ").append(NAME).append(", ").append(EMAIL).append(", ")
-				.append(MESSAGE).append(", ").append(MOBILE).append(" FROM ").append(TABLE_NAME);
+				.append(MESSAGE).append(", ").append(MOBILE).append(" FROM ").append(TABLE_NAME).append(" ORDER BY ")
+				.append(ID);
 		SQL_FETCH = sb.toString();
 
 		sb = new StringBuilder();

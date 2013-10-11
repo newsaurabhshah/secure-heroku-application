@@ -36,6 +36,26 @@
 				</tr>
 			</table>
 		</form>		
+		
+		<div>
+			Features:
+			<ul>
+				<li>Spring Security</li>
+				<li>Spring MVC</li>
+				<li>JQuery UI</li>
+				<li>JQ Grid</li>
+				<li>Anti Samy Layer{With Spring AOP}</li>
+				<li>BASE 64 Encryption</li>
+				<li>Postgresql {Heroku Cloud}</li>
+				<li>IText</li>
+				<li>JQuery</li>
+				<li>Parsley js</li>
+				<li>My own Lib for converting Forms to JSON</li>
+				<li>Java Mail with Spring Mail template</li>
+				<li>Spring JDBC</li>
+				<li>Dynamic Tomcat Instance invocation for Heroku</li>
+			</ul>
+		</div>
 	</div>
 	<p class="loader">&nbsp;</p>
 	<div id="message" class="ui-state-error">

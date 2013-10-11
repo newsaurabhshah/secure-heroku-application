@@ -3,6 +3,23 @@ secure-heroku-application
 
 This is a demo for a secure application deployment on Heroku
 
+Features
+
+	Spring Security,
+	Spring MVC.
+	JQuery UI,
+	JQ Grid,
+	Anti Samy Layer{With Spring AOP},
+	BASE 64 Encryption,
+	Postgresql {Heroku Cloud},
+	IText,
+	JQuery,
+	Parsley js,
+	My own Lib for converting Forms to JSON,
+	Java Mail with Spring Mail template,
+	Spring JDBC,
+	Dynamic Tomcat Instance invocation for Heroku
+
 Demo app deployed @ http://quiet-lowlands-8438.herokuapp.com/
 
 USERNAME saurabh

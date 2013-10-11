@@ -44,8 +44,32 @@
 						<td><textarea name="message" data-required="true" data-maxlength="200"></textarea></td>
 					</tr>
 				</table>
-				<button id="submitForm" type="submit">Add</button>
-				<p class="loader">&nbsp;</p>
+				<button id="submitForm" type="submit">Add</button><p class="loader">&nbsp;</p><br/>
+				* This app's code is now open source and accessible from Git.<br/>
+				* Your Data is not protected encryption details are made public.<br/>
+				* Please don't share your original mail and mobile Number.<br/>
+				* You can leave your name and dummy entries to show your support.<br/>
+				
+				<br/>
+				<div>
+					Features:
+					<ul>
+						<li>Spring Security</li>
+						<li>Spring MVC</li>
+						<li>JQuery UI</li>
+						<li>JQ Grid</li>
+						<li>Anti Samy Layer{With Spring AOP}</li>
+						<li>BASE 64 Encryption</li>
+						<li>Postgresql {Heroku Cloud}</li>
+						<li>IText</li>
+						<li>JQuery</li>
+						<li>Parsley js</li>
+						<li>My own Lib for converting Forms to JSON</li>
+						<li>Java Mail with Spring Mail template</li>
+						<li>Spring JDBC</li>
+						<li>Dynamic Tomcat Instance invocation for Heroku</li>
+					</ul>
+				</div>
 			</form>
 		</div>
 		<div style="float:right">

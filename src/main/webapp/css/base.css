@@ -1,0 +1,14 @@
+body{
+	background-image:url(images/grey-bg.gif);
+	background-repeat:repeat-x;
+	font-size:12px;
+}
+.container{
+	background-color: #FFFFFF;
+}
+.loader{
+	background-image:url(images/ajax-loader.gif);
+	width:16px;
+	height:16px;
+	display:none;
+}

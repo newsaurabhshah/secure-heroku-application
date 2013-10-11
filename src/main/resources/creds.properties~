@@ -1,9 +1,0 @@
-db.url=jdbc:postgresql://ec2-107-20-220-11.compute-1.amazonaws.com:5432/d6nhnrsl3j76ll?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory
-db.driver.class=org.postgresql.Driver
-db.username=fdqqgrwmbjummu
-db.password=nXHp6aSAycwqdxrsU04BzExEUW
-
-mail.host=smtp.gmail.com
-mail.port=587
-mail.username=demobetatester@gmail.com
-mail.password=testingtesting124
